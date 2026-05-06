@@ -22,7 +22,6 @@ Most of our repos are private, but we welcome collaboration with the wider conse
 ---
 
 <p align="center">
-  <img src="https://www.mcs.org.uk/wp-content/themes/mcs/images/logo.svg" alt="Marine Conservation Society" height="48"/>
+  <img src="[https://www.mcs.org.uk/wp-content/themes/mcs/images/logo.svg" alt="Marine Conservation Society](https://www.mcsuk.org/static/images/logos/bubbles-dark.gif)" height="48"/>
   <br/>
-  <em>Fighting for our oceans since 1983</em>
 </p>
