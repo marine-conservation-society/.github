@@ -1,4 +1,9 @@
-# 🌊 Marine Conservation Society — Data & Analytics
+<p align="center">
+  <img src="https://www.mcsuk.org/static/images/logos/bubbles-light.gif" alt="Marine Conservation Society" height="90"/>
+  <br/>
+</p>
+
+# 🌊 Marine Conservation Society
 
 Official GitHub of [Marine Conservation Society](https://www.mcs.org.uk), the UK's leading ocean charity. We use data to understand, protect, and recover the seas around the UK.
 
@@ -17,11 +22,6 @@ Our team turns data into insight that drives conservation decisions. We work acr
 
 ## Get involved
 
-Most of our repos are private, but we welcome collaboration with the wider conservation data community. If you're working on marine data and want to connect, reach out via [mcs.org.uk](https://www.mcs.org.uk).
+Most of our repos are private, but we welcome collaboration with the wider conservation data community. If you're working on marine data and want to connect, reach out via [mcs.org](https://www.mcs.org).
 
 ---
-
-<p align="center">
-  <img src="[https://www.mcs.org.uk/wp-content/themes/mcs/images/logo.svg" alt="Marine Conservation Society](https://www.mcsuk.org/static/images/logos/bubbles-dark.gif)" height="48"/>
-  <br/>
-</p>
