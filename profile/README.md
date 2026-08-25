@@ -13,15 +13,14 @@ Official GitHub of [Marine Conservation Society](https://www.mcs.org.uk), the UK
 
 Our team turns data into insight that drives conservation decisions. We work across:
 
-- **Marine monitoring** — analysing data from beach surveys, pollution monitoring, and species tracking
-- **Campaign evidence** — building the evidence base for MCS's policy and advocacy work
-- **Operational reporting** — helping teams across MCS understand their impact
-- **Data infrastructure** — pipelines, models, and tooling that make data accessible and reliable
+- **Marine monitoring**: analysing data from beach surveys, pollution monitoring, and species tracking
+- **Campaign evidence**: building the evidence base for MCS's policy and advocacy work
+- **Operational reporting**: helping teams across MCS understand their impact
+- **Data infrastructure**: pipelines, models, and tooling that make data accessible and reliable
 
 ---
 
 ## Get involved
 
 Most of our repos are private, but we welcome collaboration with the wider conservation data community. If you're working on marine data and want to connect, reach out via [mcs.org](https://www.mcs.org).
-
 ---
